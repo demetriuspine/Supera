@@ -1,10 +1,12 @@
 [
   {
     "name": "pedrinho",
+    "partido": "PSDB 45",
     "image": ""
   },
   {
     "name": "zezinho",
-    "image": ""
+    "partido": "PSDB 45",
+    "image": "PL 22"
   }
 ]
