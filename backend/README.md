@@ -39,6 +39,31 @@ Caso o cpf tenha mais que 11 caracteres, a API retornará a seguinte estrutura:
 }
 ```
 
+Caso seja passado mais um campo:
+
+```
+{
+	"cpf": "41315957884",
+	"ad": 123
+}
+```
+
+A api retornará:
+
+```
+{
+	"message": "\"ad\" is not allowed"
+}
+```
+
+Caso o campo cpf não seja passado:
+
+```
+{
+	"message": "\"cpf\" is required"
+}
+```
+
 Caso a API receba uma string com 11 caracteres e o cpf seja inválido:
 
 ```
