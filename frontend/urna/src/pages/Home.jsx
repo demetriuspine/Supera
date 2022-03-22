@@ -1,7 +1,12 @@
 import React from 'react'
+import Header from '../components/Header'
+import Inputs from '../components/Inputs'
 
 export default function Home() {
   return (
-    <div>Home</div>
+    <>
+      <Header />
+      <Inputs />
+    </>
   )
 }

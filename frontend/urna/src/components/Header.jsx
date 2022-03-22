@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Header() {
   return (
-    <div>Header</div>
+    <header className='topping'>
+      <h1>Realizar Voto</h1>
+    </header>
   )
 }
