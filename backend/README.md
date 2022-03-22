@@ -1,3 +1,5 @@
+![Project Gif](./supera-backend.gif)
+
 ## API CPF
 
 Essa api verifica se o cpf informado via request body é válido ou não.
