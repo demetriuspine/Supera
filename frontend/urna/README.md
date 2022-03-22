@@ -1,1 +1,1 @@
-![Alt Text]('./supera-frontend_1.gif')
+![Project Gif](./supera-frontend_1.gif)
